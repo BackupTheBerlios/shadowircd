@@ -1,8 +1,3 @@
-# This file contains build instructions.
-#
-# $Id: Makefile.in,v 1.2 2004/05/24 23:25:11 nenolod Exp $
-#
-
 CC		= @CC@
 RM		= @RM@
 MV		= @MV@
